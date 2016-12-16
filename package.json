@@ -1,0 +1,25 @@
+{
+  "name": "@nbering/rename-rbc-statements",
+  "version": "1.0.0",
+  "description": "A simple command line utility to rename all rbc statements in a directory to something that sorts better in file explorers.",
+  "main": "index.js",
+  "bin": {
+    "rename-rbc-statements": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbering/rename-rbc-statements.git"
+  },
+  "author": "Nicholas Bering",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbering/rename-rbc-statements/issues"
+  },
+  "homepage": "https://github.com/nbering/rename-rbc-statements#readme",
+  "dependencies": {
+    "moment": "^2.17.1"
+  }
+}
